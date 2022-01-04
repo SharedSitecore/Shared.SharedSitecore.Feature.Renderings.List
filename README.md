@@ -1,2 +1,2 @@
-# SharedSitecore.Feature.Renderings.List
+# Shared.SharedSitecore.Feature.Renderings.List
 Sitecore List View Rendering
